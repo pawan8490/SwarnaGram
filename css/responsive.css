@@ -797,5 +797,8 @@
   .topNav a span{
     display: none;
   }
+  .joinContent ul{
+    margin-top:15px;
+  }
 
 }
