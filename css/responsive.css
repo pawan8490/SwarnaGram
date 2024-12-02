@@ -1,0 +1,801 @@
+
+@media (min-width:768px) {
+  .navbar-toggler{
+    display: none;
+  }
+}
+
+@media (max-width:1199.98px) {
+  .supTitle{
+    font-size: 28px;
+  }
+  .heroTitle{
+    font-size: 55px;
+    line-height: 70px;
+  }
+  .heroContainer p{
+    font-size: 18px;
+  }
+  .themeBtn {
+    font-size: 18px;
+    line-height: 20px;
+    min-height: 55px;
+    padding: 5px 40px;
+  }
+  .missionSec {
+    padding: 55px 0;
+  }
+  .missionTitle{
+    font-size: 55px;
+    line-height: 70px;
+  }
+  .missionTitle img{
+    max-height: 90px;
+  }
+  .missionSec .descriptext{
+    margin-top: 18px;
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .missionSubText {
+    font-size: 30px;
+    line-height: 45px;
+  }
+  .missionCardRow{
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 15px;
+  }
+  .missionCard .missionBody{
+    padding: 15px;
+  }
+  .missionCard{
+    height: 100%;
+  }
+  .missionCard .missionBody h6{
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .missionCard .missionBody  p {
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 10px;
+  }
+  .initHeading{
+    font-size: 55px;
+    line-height: 65px;
+  }
+  .initRow {
+    gap: 15px;
+    margin-top: 35px;
+  }
+  .initCard  h6 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .initCard{
+    gap: 15px;
+  }
+  .initCard  p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .initCard  img {
+    max-width: 75px;
+  }
+  .impactBlock {
+    border-radius: 30px;
+    padding:30px;
+    margin-top: 40px;
+  }
+  .impactBlockHeading {
+    font-size: 55px;
+    line-height: 65px;
+  }
+  .impactBlockHeading span {
+    display: block;
+    font-size: 90px;
+  }
+  .impactCol_1 {
+    font-size: 25px;
+    line-height: 40px;
+  }
+  .initSection{
+    margin-bottom: 40px;
+  }
+  .joinCol_2{
+    padding: 30px 15px;
+  }
+  .joinContent h2{
+    font-size: 55px;
+    line-height: 65px;
+  }
+  .joinContent p {
+    font-size: 20px;
+    margin: 16px 0;
+    line-height: 30px;
+  }
+  .joinContent li span{
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .joinContent li {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .joinContent li + li {
+    margin-top: 15px;
+  }
+  .marketConect {
+    padding: 40px 0;
+  }
+  .connectCol_1 h2 {
+    font-size: 55px;
+    line-height: 65px;
+  }
+  .connectCol_1 p{
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 15px;
+  }
+  .connectUpText {
+    font-size: 25px;
+    line-height: 60px;
+    margin-top: -50px;
+  }
+  .promteCardParent{
+    border-radius: 30px;
+    margin-top: 15px;
+    padding: 25px;
+  }
+  .prometCard h6 {
+    font-size: 20px;
+    line-height: 28px;
+    margin-top: 5px;
+  }
+  .prometCard p {
+    font-size: 16px;
+    line-height: 27px;
+    margin-top: 10px;
+  }
+  .promteSub {
+    margin-top: 20px;
+    border-radius: 11px;
+    padding: 6px 16px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .growHeading {
+    font-size: 55px;
+    line-height: 66px;
+  }
+  .growParagraph {
+    margin: auto;
+    margin-top: 25px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .btnGroup {
+    gap: 45px;
+    margin-top: 30px;
+  }
+  .footerWraper {
+    margin-top: 40px;
+    padding: 30px 0;
+    gap: 15px;
+  }
+  .footerLeft img {
+    max-height: 90px;
+    margin-bottom: 15px;
+  }
+  .footerLeft p{
+    font-size: 17px;
+  }
+  .socialfooter{
+    margin-top: 15px;
+    gap:15px;
+  }
+  .heroBanner{
+    min-height: 550px;
+  }
+}
+
+@media (max-width: 991.98px) {
+ 
+  .headerBlock {
+    padding: 15px;
+  }
+  .topNav{
+    gap: 15px;
+  }
+  .menuLink{
+    gap: 40px;
+    margin-top: 20px;
+  }
+  .headerBlock .logo img {
+    max-height: 65px;
+  }
+  .heroContainer{
+    gap: 10px;
+    padding: 30px 0;
+    margin-bottom: 30px;
+  }
+  .supTitle {
+    font-size: 20px;
+  }
+  .heroTitle {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .heroContainer p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .themeBtn {
+    font-size: 16px;
+    line-height: 18px;
+    min-height: 45px;
+    padding: 5px 20px;
+    border-radius: 9px;
+  }
+  .heroBanner{
+    min-height: 445px;
+  }
+  .missionSec {
+    padding: 40px 0;
+  }
+  .missionTitle {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .missionTitle img {
+    max-height: 70px;
+  }
+  .missionSec .descriptext {
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 23px;
+  }
+  .missionSubText {
+    font-size: 25px;
+    line-height: 40px;
+  }
+  .initHeading {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .initRow {
+    display: grid;
+    grid-template-columns: repeat(2 , minmax(0 , 1fr));
+    gap: 25px;
+  }
+  .initCard  h6 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .initCard {
+    gap: 10px;
+  }
+  .initCard  p {
+    font-size: 14px;
+    line-height: 23px;
+  }
+  .impactBlock {
+    border-radius: 15px;
+    padding: 25px;
+    margin-top: 30px;
+  }
+  .impactBlockHeading {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .impactBlockHeading span {
+    display: block;
+    font-size: 80px;
+  }
+  .impactRow{
+    gap: 30px;
+  }
+  .impactCol_1 {
+    font-size: 20px;
+    line-height: 30px;
+    flex: 0 0 calc(60% - 15px);
+    max-width: calc(60% - 15px);
+  }
+  .impactCol_2 {
+    flex: 0 0 calc(40% - 15px);
+    max-width: calc(40% - 15px);
+  }
+  .joinContent h2 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .joinContent p {
+    font-size: 16px;
+    margin: 10px 0;
+    line-height: 25px;
+  }
+  .joinContent li span {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .joinContent li {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .joinContent li + li {
+    margin-top: 10px;
+  }
+  .marketConect {
+    padding: 30px 0;
+  }
+  .conectRow{
+    gap: 24px;
+  }
+  .connectCol_1 {
+    flex: 0 0 calc(60% - 12px);
+    max-width: calc(60% - 12px);
+  }
+  .connectCol_2 {
+    max-width: calc(40% - 12px);
+    flex: 0 0 calc(40% - 12px);
+  }
+  .connectCol_1 h2 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .connectCol_1 p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 10px;
+  }
+  .connectUpText {
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: -30px;
+  }
+  .promteCardParent {
+    border-radius: 15px;
+    margin-top: 15px;
+    padding: 20px;
+  }
+  .promteRow{
+    gap: 10px;
+  }
+  .prometCard h6 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .prometCard p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .promteSub {
+    margin-top: 15px;
+    border-radius: 7px;
+    padding: 6px 16px;
+    font-size: 15px;
+    line-height: 26px;
+  }
+  .growHeading {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .growParagraph {
+    margin: auto;
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .btnGroup {
+    gap: 30px;
+    margin-top: 20px;
+  }
+  .btnGroup button{
+    max-width: 230px;
+  }
+  .footerWraper {
+    margin-top: 36px;
+    padding: 20px 0;
+    gap: 15px;
+  }
+  .headerBlock .logo a{
+    font-size: 12px;
+    font-weight: 400;
+  }
+}
+
+
+@media (max-width:767.98px) {
+
+  .headerBlock .logo a{
+    font-size: 10px;
+  }
+  .navbar-toggler:focus,
+  .navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .navbar-toggler {
+    width: 24px;
+    height: 24px;
+    right: 0px;
+    z-index: 1;
+    position: relative;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+    padding: 0;
+    margin-left: auto;
+  }
+
+  .navbar-toggler:before {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    position: absolute;
+    top: 2px;
+    right: 0;
+    display: block;
+    height: 2px;
+    width: 22px;
+    background: #fff;
+    content: "";
+  }
+
+  .navbar-toggler span {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    position: absolute;
+    bottom: 12px;
+    right: 0;
+    display: block;
+    height: 2px;
+    width: 22px;
+    background: #fff;
+  }
+  .navbar-toggler:after {
+    position: absolute;
+    top: 19px;
+    right: 0;
+    display: block;
+    height: 2px;
+    width: 22px;
+    background:#fff;
+    content: "";
+  }
+  .navbar-toggler.menu-opened:before {
+    top: 10px;
+    background: #fff;
+    width: 22px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+
+  .navbar-toggler.menu-opened span {
+    opacity: 0;
+  }
+
+  .navbar-toggler.menu-opened:after {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    top: 10px;
+    border: 0;
+    height: 2px;
+    width: 22px;
+    background: #fff;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  /* Main Menu */
+  header .collapse:not(.show) {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -300px;
+    height: 100vh;
+    overflow-y: auto;
+    width: 250px;
+    background: #000;
+    padding: 0 12px;
+    padding-top: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s;
+    z-index: 1;
+    flex-direction: column;
+  }
+
+  header .collapse:not(.show).menu-show {
+    left: 0px;
+  }
+
+  body.scroll-off {
+    overflow-y: hidden;
+  }
+  .topNav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .menuLink{
+    gap: 10px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .overlay {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    top: 0;
+    left: 0;
+    z-index: 9;
+  }
+
+  /*  */
+
+  .headerBlock {
+    padding: 10px 15px;
+  }
+  .headerBlock .logo img {
+    max-height: 45px;
+  }
+  .heroContainer{
+    padding: 30px 0;
+    margin-bottom: 0;
+  }
+  .heroBanner{
+    min-height: unset;
+  }
+  .supTitle {
+    font-size: 16px;
+  }
+  .heroTitle {
+    font-size: 25px;
+    line-height: 40px;
+  }
+  .heroContainer p {
+    font-size: 14px;
+    margin-bottom: 15px;
+    font-weight: 400;
+  }
+  .themeBtn {
+    font-size: 14px;
+    line-height: 15px;
+    min-height: 40px;
+    padding: 2px 17px;
+    border-radius: 9px;
+  }
+  .missionTitle {
+    font-size: 25px;
+    line-height: 35px;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0;
+  }
+  .missionTitle img {
+    max-height: 55px;
+  }
+  .missionSec {
+    padding: 30px 0;
+  }
+  .missionSec .descriptext {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .missionSubText {
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 5px;
+  }
+  .missionCardRow {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 15px;
+  }
+  .missionCard .missionBody h6 {
+    font-size: 18px;
+    line-height: 20px;
+  }
+  .missionCard .missionBody p {
+    font-size: 14px;
+  }
+  .initSection {
+    margin-bottom: 25px;
+    padding-top: 25px;
+  }
+  .initHeading {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .initRow {
+    display: grid;
+    grid-template-columns: repeat(1 , minmax(0 , 1fr));
+    gap: 15px;
+    margin-top: 15px;
+  }
+  .initCard  h6 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .initCard  p {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .impactBlock {
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 15px;
+  }
+  .impactBlockHeading {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .impactBlockHeading span {
+    display: block;
+    font-size: 40px;
+    line-height: 1;
+  }
+  .impactRow{
+    flex-direction: column;
+    gap: 15px;
+  }
+  .impactCol_1 , .impactCol_2{
+    flex: 0 0 100%;
+    max-width: 100%;
+    font-size: 15px;
+    line-height: 22px;
+  }
+  .impactIMg {
+    position: relative;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    z-index: 1;
+  }
+  .joinCol_1{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .joinImg img {
+    aspect-ratio: 844 / 883;
+  }
+  .joinCol_2{
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 15px;
+  }
+  .joinContent h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .joinContent p {
+    font-size: 14px;
+    margin: 7px 0;
+    line-height: 24px;
+  }
+  .joinContent li span {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .joinContent li {
+    font-size: 14px;
+    line-height: 21px;
+    gap: 10px;
+  }
+  .joinMission{
+    flex-direction: column-reverse;
+  }
+  .joinContent li + li {
+    margin-top: 5px;
+  }
+  .conectRow{
+    gap: 15px;
+  }
+  .connectCol_1, .connectCol_2{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .connectCol_1 h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .connectCol_1 p {
+    font-size: 14px;
+    line-height: 23px;
+    margin-top: 10px;
+  }
+  .connectUpText {
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 2px;
+    text-align: center;
+  }
+  .promteCardParent {
+    border-radius: 10px;
+    margin-top: 15px;
+    padding: 15px;
+  }
+  .prometCard{
+    max-width: 100%;
+  }
+  .promteRow{
+    flex-direction: column;
+  }
+  .prometCard h6 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .prometCard p{
+    font-size: 13px;
+  }
+  .promteSub{
+    font-size: 13px;
+    line-height: 22px;
+  }
+  .growHeading {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .growHeading {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .growParagraph {
+    margin: auto;
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .btnGroup {
+    gap: 10px;
+    margin-top: 15px;
+  }
+  .footerWraper {
+    margin-top: 20px;
+    padding: 15px 0;
+    gap: 10px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .footerRight{
+    text-align: center;
+    flex-direction: column-reverse;
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+  }
+  .socialfooter{
+    justify-content: center;
+    margin-top: 0;
+  }
+  .footerRight p {
+    font-size: 13px;
+    line-height: 16px;
+  }
+  .socialfooter img{
+    max-width: 25px;
+  }
+  .footerLeft p {
+    font-size: 14px;
+  }
+  .footerLeft img {
+    max-height: 55px;
+    margin-bottom: 5px;
+  }
+  .topNav a{
+    gap: 0;
+  }
+  .topNav a span{
+    display: none;
+  }
+
+}
